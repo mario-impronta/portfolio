@@ -8,7 +8,7 @@ Here you can see:
 - My résumé,<br>
   in https://github.com/mario-impronta/portfolio/blob/main/Resume-en.pdf
 
-- A Google Cloud implementation of a small "cloud lab", for a client who
+- A Google Cloud implementation of a small "cloud lab", for a client who<br>
   needed to validate their products in a safe cloud environment, in:<br>
   https://github.com/mario-impronta/portfolio/blob/main/cloudlab.png
 
