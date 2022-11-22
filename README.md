@@ -29,6 +29,6 @@ Here you can see:
   - A nice little <b>time-stamping function</b> everyone can use,<br>
     in https://github.com/mario-impronta/portfolio/blob/main/code-sample-sh-timestamp.png<br>
 
-  - Finally! The <b><font color=red>poor man's VPN</font></b>: <b>pppoverssh</b>,<br>
+  - Finally! The <b>`#0969DA`poor man's VPN</b>: <b>pppoverssh</b>,<br>
     in \<TBA><br>
 
