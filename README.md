@@ -1,7 +1,6 @@
 # portfolio
 
-Hi! These are samples/screenshots of some of my latest works as a developer and systems engineer.
-
+Hi! These are samples/screenshots of some of my works as a developer and systems engineer.
 
 Here you can see:
 
