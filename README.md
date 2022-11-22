@@ -24,10 +24,8 @@ Here you can see:
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-06.png<br>
 
 - Code samples - some Shell fun!<br>
-
   - A nice little <b>time-stamping function</b> everyone can use,<br>
     in https://github.com/mario-impronta/portfolio/blob/main/code-sample-sh-timestamp.png<br>
-
   - Finally! The <b>poor man's VPN</b>: <b>pppoverssh</b>,<br>
     in https://github.com/mario-impronta/portfolio/blob/main/code-sample-sh-pppoverssh.png<br>
 
