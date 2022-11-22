@@ -20,5 +20,5 @@ Here you can see:
 - Code samples - some Shell fun!<br>
   - A nice little <b>time-stamping function</b> everyone can use, in:<br>
     https://github.com/mario-impronta/portfolio/blob/main/code-sample-sh-timestamp.png<br>
-  - Finally! The <b>poor man's VPN</b>: <b>pppoverssh</b>, in:<br>
+  - Finally! The <b>poor man's VPN</b> everyone can use: <b>pppoverssh</b>, in:<br>
     https://github.com/mario-impronta/portfolio/blob/main/code-sample-sh-pppoverssh.png<br>
