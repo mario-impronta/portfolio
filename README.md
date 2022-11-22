@@ -1,6 +1,6 @@
 # portfolio
 
-Hi! These are samples of some of my latest works as a developer and systems engineer.
+Hi! These are samples/screenshots of some of my latest works as a developer and systems engineer.
 
 
 Here you can see:
@@ -16,8 +16,7 @@ Here you can see:
   in https://github.com/mario-impronta/portfolio/blob/main/watcher.png
 
 - The "Fund Watch", an investment fund data collecting & viewing product,<br>
-  a fully functional prototype created for Riskgrid Technologies Inc.,<br>
-  in:<br>
+  a fully functional prototype created for Riskgrid Technologies Inc., in:<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-01.png<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-02.png<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-03.png<br>
