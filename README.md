@@ -26,6 +26,6 @@ Here you can see:
 
 - Code samples - some Shell fun!<br>
 
-  - A nice little *time-stamping* function,<br>
+  - A nice little <b>time-stamping</b> function,<br>
     in https://github.com/mario-impronta/portfolio/blob/main/code-sample-sh-timestamp.png<br>
 
