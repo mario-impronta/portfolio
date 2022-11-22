@@ -23,3 +23,9 @@ Here you can see:
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-04.png<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-05.png<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-06.png<br>
+
+- Code samples - some Shell fun!<br>
+
+  - A nice little *time-stamping* function,<br>
+    in https://github.com/mario-impronta/portfolio/blob/main/code-sample-sh-timestamp.png<br>
+
