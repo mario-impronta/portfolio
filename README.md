@@ -26,9 +26,9 @@ Here you can see:
 
 - Code samples - some Shell fun!<br>
 
-  - A nice little <b>time-stamping</b> function,<br>
+  - A nice little <b>time-stamping function</b> everyone can use,<br>
     in https://github.com/mario-impronta/portfolio/blob/main/code-sample-sh-timestamp.png<br>
 
-  - The *poor man's VPN*: <b>pppoverssh</b>,<br>
+  - Finally! The <u>poor man's VPN</u>: <b>pppoverssh</b>,<br>
     in \<TBA><br>
 
