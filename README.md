@@ -29,3 +29,6 @@ Here you can see:
   - A nice little <b>time-stamping</b> function,<br>
     in https://github.com/mario-impronta/portfolio/blob/main/code-sample-sh-timestamp.png<br>
 
+  - The *poor man's VPN*: <b>pppoverssh</b>,<br>
+    in \<TBA><br>
+
