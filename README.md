@@ -9,12 +9,14 @@ Here you can see:
   in https://github.com/mario-impronta/portfolio/blob/main/Resume-en.pdf
 
 - A Google Cloud implementation of a small "cloud lab",<br>
+  for a client who needed to validate their products in the cloud,<br>
   in https://github.com/mario-impronta/portfolio/blob/main/cloudlab.png
 
 - The "Watcher", a simple tool to perform simple environment monitoring,<br>
   in https://github.com/mario-impronta/portfolio/blob/main/watcher.png
 
 - The "Fund Watch", an investment fund data collecting & viewing product,<br>
+  a fully functional prototype created for Riskgrid Technologies Inc.,<br>
   in:<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-01.png<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-02.png<br>
