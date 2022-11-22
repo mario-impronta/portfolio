@@ -8,14 +8,14 @@ Here you can see:
 - My résumé,<br>
   in https://github.com/mario-impronta/portfolio/blob/main/Resume-en.pdf
 
-- A Google Cloud implementation of a small "cloud lab", for a client who<br>
+- A <b>Google Cloud</b> implementation of a small "<b>cloud lab</b>", for a client who<br>
   needed to validate their products in a safe cloud environment, in:<br>
   https://github.com/mario-impronta/portfolio/blob/main/cloudlab.png
 
-- The "Watcher", a simple tool to perform simple environment monitoring,<br>
+- The "<b>Watcher</b>", a simple tool to perform simple environment monitoring,<br>
   in https://github.com/mario-impronta/portfolio/blob/main/watcher.png
 
-- The "Fund Watch", an investment fund data collecting & viewing product,<br>
+- The "<b>Fund Watch</b>", an investment fund data collecting & viewing product,<br>
   a fully functional prototype created for Riskgrid Technologies Inc., in:<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-01.png<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-02.png<br>
