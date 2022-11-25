@@ -7,7 +7,7 @@ Here you can see:
 - A <b>Google Cloud</b> implementation of a small "<b>cloud lab</b>", for a client who<br>
   needed to validate their products in a safe cloud environment, in:<br>
   https://github.com/mario-impronta/portfolio/blob/main/cloudlab.png
-- The "<b>Watcher</b>", a simple tool to perform simple environment monitoring, in:<br>
+- The "<b>Watcher</b>", a simple env monitoring tool (sorry Grafana!), in:<br>
   https://github.com/mario-impronta/portfolio/blob/main/watcher.png
 - The "<b>Fund Watch</b>", an investment fund data collecting & viewing product,<br>
   a fully functional prototype created for Riskgrid Technologies Inc., in:<br>
