@@ -17,6 +17,13 @@ Here you can see:
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-04.png<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-05.png<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-06.png<br>
+- Code samples - a nice Talend/Java trick to deal with an Excel file with over <b>500 columns</b>!
+  1. Reading the raw Excel data to populate an array:<br>
+    https://github.com/mario-impronta/portfolio/blob/main/sample-talend-load_excel_data-blocks.png<br>
+    https://github.com/mario-impronta/portfolio/blob/main/sample-talend-load_excel_data-code.png<br>
+  2. Using the array data for regular stream operations:<br>
+    https://github.com/mario-impronta/portfolio/blob/main/sample-talend-scan_array_data-blocks.png<br>
+    https://github.com/mario-impronta/portfolio/blob/main/sample-talend-scan_array_data-code.png<br>
 - Code samples - small tricks and some fun!<br>
   - A nice little <b>time-stamping function</b> everyone can use, in:<br>
     https://github.com/mario-impronta/portfolio/blob/main/sample-sh-timestamp.png<br>
