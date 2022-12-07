@@ -24,10 +24,10 @@ Here you can see:
   2. Then scanning the desired array data for further use:<br>
     https://github.com/mario-impronta/portfolio/blob/main/sample-talend-scan_array_data-blocks.png<br>
     https://github.com/mario-impronta/portfolio/blob/main/sample-talend-scan_array_data-code.png<br>
-- Code samples - small tricks and some fun!<br>
-  - A nice little <b>time-stamping function</b> everyone can use, in:<br>
+- Code samples - some Shell small tricks:<br>
+  - A nice little <b>time-stamping function</b> for better logging, in:<br>
     https://github.com/mario-impronta/portfolio/blob/main/sample-sh-timestamp.png<br>
-  - Finally! The <b>poor man's VPN</b> everyone can use: <b>pppoverssh</b>, in:<br>
+  - Finally! The <b>poor man's VPN</b>: <b>pppoverssh</b>, in:<br>
     https://github.com/mario-impronta/portfolio/blob/main/sample-sh-pppoverssh.png<br>
   - The <b>quick-and-dirty</b> easy <b>malware scanner</b>, in:<br>
     https://github.com/mario-impronta/portfolio/blob/main/sample-sh-scanner.png
