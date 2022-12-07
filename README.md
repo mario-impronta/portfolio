@@ -4,6 +4,9 @@ Hi! These are samples/screenshots of some of my works as a developer and systems
 Here you can see:
 - My résumé, in:<br>
   https://github.com/mario-impronta/portfolio/blob/main/Resume-en.pdf
+- A <b>Xen Hypervisor</b> implementation, over a CentOS 5.5 server, a small "server farm"<br>
+  for a client's office - a <b>private cloud</b>, in:<br>
+  https://github.com/mario-impronta/portfolio/blob/main/xenpc.png<br>
 - A <b>Google Cloud</b> implementation of a small "<b>cloud lab</b>", for a client who<br>
   needed to validate their products in a safe cloud environment, in:<br>
   https://github.com/mario-impronta/portfolio/blob/main/cloudlab.png
