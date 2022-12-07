@@ -17,7 +17,7 @@ Here you can see:
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-04.png<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-05.png<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-06.png<br>
-- Code samples - some Shell fun!<br>
+- Code samples - small tricks and some fun!<br>
   - A nice little <b>time-stamping function</b> everyone can use, in:<br>
     https://github.com/mario-impronta/portfolio/blob/main/sample-sh-timestamp.png<br>
   - Finally! The <b>poor man's VPN</b> everyone can use: <b>pppoverssh</b>, in:<br>
