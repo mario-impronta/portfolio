@@ -20,10 +20,10 @@ Here you can see:
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-04.png<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-05.png<br>
      https://github.com/mario-impronta/portfolio/blob/main/fundwatch-06.png<br>
-- Code samples - a nice Talend/Java trick to deal with an Excel file with over <b>500 columns</b>!
-  1. Reading the raw Excel data to populate an array:<br>
+- Code samples - a Talend/Java trick to deal with Excel files with over <b>500 columns</b>!
+  1. Reading raw Excel data to populate an array:<br>
     https://github.com/mario-impronta/portfolio/blob/main/sample-talend-load_excel_data.png<br>
-  2. Then scanning the array for the desired data for further use:<br>
+  2. Then scanning array for desired data for further use:<br>
     https://github.com/mario-impronta/portfolio/blob/main/sample-talend-scan_array_data.png<br>
 - Code samples - some Shell small tricks:<br>
   - A nice little <b>time-stamping function</b> for better logging, in:<br>
