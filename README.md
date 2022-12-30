@@ -4,6 +4,10 @@ Hi! These are samples/screenshots of some of my works as a developer and systems
 Here you can see:
 - My résumé, in:<br>
   https://github.com/mario-impronta/portfolio/blob/main/Resume-en.pdf
+- A bit of WordPress - my personal, rarely-updated, blog, in:<br>
+  https://github.com/mario-impronta/portfolio/blob/main/sample-wordpress-blog-01.png<br>
+  https://github.com/mario-impronta/portfolio/blob/main/sample-wordpress-blog-02.png<br>
+  https://github.com/mario-impronta/portfolio/blob/main/sample-wordpress-blog-03.png<br>
 - A <b>Xen Hypervisor</b> implementation, over a CentOS 5.5 server's kernel,<br>
   of a small "server farm" for a client's office - a <i>private cloud</i>, in:<br>
   https://github.com/mario-impronta/portfolio/blob/main/xenpc.png<br>
